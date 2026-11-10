@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<lensdatabase version="2">
+    <!-- Converted from Viltrox (56mmF1.4XM) - RAW.lcp using lensfun-convert-lcp. -->
+    <lens>
+        <maker>Viltrox</maker>
+        <model>Viltrox 56mm f/1.4XM</model>
+        <mount>Fujifilm X</mount>
+        <cropfactor>1.515152</cropfactor>
+        <focal value="56" />
+        <aperture min="1.4" />
+        <calibration>
+            <distortion focal="56.0" model="acm" k1="0.254954" />
+            <tca focal="56.0" model="acm" alpha0="1.000044" alpha1="-0.001545" beta0="0.999804" beta1="0.002259" />
+            <vignetting focal="56.000000" model="acm" aperture="1.4" distance="3.031865" alpha1="-3.944153" alpha2="-176.978409" alpha3="2443.656738" />
+            <vignetting focal="56.000000" model="acm" aperture="2.8" distance="3.385656" alpha1="-0.487134" alpha2="-76.286995" alpha3="1280.881958" />
+            <vignetting focal="56.000000" model="acm" aperture="5.6" distance="2.268761" alpha1="-1.015169" alpha2="-11.772543" alpha3="97.604378" />
+            <vignetting focal="56.000000" model="acm" aperture="11" distance="2.996574" alpha1="-1.210754" alpha2="-62.073608" alpha3="836.323853" />
+        </calibration>
+    </lens>
+</lensdatabase>

@@ -1,0 +1,331 @@
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+            xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+         <photoshop:CameraProfiles>
+            <rdf:Seq
+               stCamera:Author="Huang Yikai"
+               stCamera:Make="Viltrox"
+               stCamera:CameraRawProfile="False"
+               stCamera:PreferMetadataDistort="True"
+               stCamera:Lens="Viltrox 56mm F1.4XM"
+               stCamera:LensInfo="5600/100 5600/100 19601/13860 19601/13860"
+               stCamera:CameraPrettyName="Viltrox 56mm F1.4XM"
+               stCamera:LensPrettyName="Viltrox 56mm F1.4XM"
+               stCamera:ProfileName="Viltrox 56mm F1.4XM"
+               stCamera:SensorFormatFactor="1.521739"
+               stCamera:FocalLength="56"
+               stCamera:ApertureValue="4">
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:ProfileName>Viltrox - 56mm F1.4XM</stCamera:ProfileName>
+                  <stCamera:Make>Viltrox</stCamera:Make>
+                  <stCamera:Model>X-T4</stCamera:Model>
+                  <stCamera:Lens>Viltrox 56mm F1.4XM</stCamera:Lens>
+                  <stCamera:LensInfo>5600/100 5600/100 19601/13860 19601/13860</stCamera:LensInfo>
+                  <stCamera:ImageWidth>6240.000000</stCamera:ImageWidth>
+                  <stCamera:ImageLength>4160.000000</stCamera:ImageLength>
+                  <stCamera:XResolution>300.000000</stCamera:XResolution>
+                  <stCamera:YResolution>300.000000</stCamera:YResolution>
+                  <stCamera:FocalLength>56.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Viltrox 56mm F1.4XM</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>Viltrox</stCamera:CameraPrettyName>
+                  <stCamera:CameraRawProfile>False</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>3.031865</stCamera:FocusDistance>
+                  <stCamera:SensorFormatFactor>1.515152</stCamera:SensorFormatFactor>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:FocalLengthX>2.291568</stCamera:FocalLengthX>
+                     <stCamera:FocalLengthY>2.291568</stCamera:FocalLengthY>
+                     <stCamera:ImageXCenter>0.462029</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.456939</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>0.245667</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>-0.650035</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>2.268196</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000089</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000061</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>2.133579</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>2.133579</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.457187</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.456405</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.213894</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.446497</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>1.216535</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000077</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000055</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000245</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>2.133579</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>2.133579</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.457187</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.456405</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.003635</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.309376</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>2.766427</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000082</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000055</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999659</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>2.133579</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>2.133579</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.457187</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.456405</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.002427</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.156530</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-1.271378</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000079</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000055</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>2.291568</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>2.291568</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.462029</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.456939</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-3.944153</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-212.978409</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>2443.656738</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.066977</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:ProfileName>Viltrox - 56mm F1.4XM</stCamera:ProfileName>
+                  <stCamera:Make>Viltrox</stCamera:Make>
+                  <stCamera:Model>X-T4</stCamera:Model>
+                  <stCamera:Lens>Viltrox 56mm F1.4XM</stCamera:Lens>
+                  <stCamera:LensInfo>5600/100 5600/100 19601/13860 19601/13860</stCamera:LensInfo>
+                  <stCamera:ImageWidth>6240.000000</stCamera:ImageWidth>
+                  <stCamera:ImageLength>4160.000000</stCamera:ImageLength>
+                  <stCamera:XResolution>300.000000</stCamera:XResolution>
+                  <stCamera:YResolution>300.000000</stCamera:YResolution>
+                  <stCamera:FocalLength>56.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Viltrox 56mm F1.4XM</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>Viltrox</stCamera:CameraPrettyName>
+                  <stCamera:CameraRawProfile>False</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>3.385656</stCamera:FocusDistance>
+                  <stCamera:SensorFormatFactor>1.515152</stCamera:SensorFormatFactor>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:FocalLengthX>2.567862</stCamera:FocalLengthX>
+                     <stCamera:FocalLengthY>2.567862</stCamera:FocalLengthY>
+                     <stCamera:ImageXCenter>0.479105</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.457633</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>0.254954</stCamera:RadialDistortParam1>
+                     <stCamera:ResidualMeanError>0.000081</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000052</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>2.567944</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>2.567944</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.479229</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.457528</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.254619</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000079</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000050</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000044</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>2.567944</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>2.567944</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.479229</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.457528</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.001545</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000080</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000051</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999804</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>2.567944</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>2.567944</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.479229</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.457528</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.002259</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000080</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000050</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>2.567862</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>2.567862</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.479105</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.457633</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.487134</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-76.286995</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>1280.881958</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.094029</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:ProfileName>Viltrox - 56mm F1.4XM</stCamera:ProfileName>
+                  <stCamera:Make>Viltrox</stCamera:Make>
+                  <stCamera:Model>X-T4</stCamera:Model>
+                  <stCamera:Lens>Viltrox 56mm F1.4XM</stCamera:Lens>
+                  <stCamera:LensInfo>5600/100 5600/100 19601/13860 19601/13860</stCamera:LensInfo>
+                  <stCamera:ImageWidth>6240.000000</stCamera:ImageWidth>
+                  <stCamera:ImageLength>4160.000000</stCamera:ImageLength>
+                  <stCamera:XResolution>300.000000</stCamera:XResolution>
+                  <stCamera:YResolution>300.000000</stCamera:YResolution>
+                  <stCamera:FocalLength>56.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Viltrox 56mm F1.4XM</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>Viltrox</stCamera:CameraPrettyName>
+                  <stCamera:CameraRawProfile>False</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>2.268761</stCamera:FocusDistance>
+                  <stCamera:SensorFormatFactor>1.515152</stCamera:SensorFormatFactor>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:FocalLengthX>1.705080</stCamera:FocalLengthX>
+                     <stCamera:FocalLengthY>1.705080</stCamera:FocalLengthY>
+                     <stCamera:ImageXCenter>0.452774</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.449787</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>0.098594</stCamera:RadialDistortParam1>
+                     <stCamera:ResidualMeanError>0.000075</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000047</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>1.705123</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>1.705123</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.452866</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.449798</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.098540</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000074</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000046</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000034</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>1.705123</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>1.705123</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.452866</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.449798</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000668</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000074</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000047</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999843</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>1.705123</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>1.705123</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.452866</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.449798</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000817</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000075</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000045</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>1.705080</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>1.705080</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.452774</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.449787</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-1.015169</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-11.772543</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>97.604378</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.034305</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:ProfileName>Viltrox - 56mm F1.4XM</stCamera:ProfileName>
+                  <stCamera:Make>Viltrox</stCamera:Make>
+                  <stCamera:Model>X-T4</stCamera:Model>
+                  <stCamera:Lens>Viltrox 56mm F1.4XM</stCamera:Lens>
+                  <stCamera:LensInfo>5600/100 5600/100 19601/13860 19601/13860</stCamera:LensInfo>
+                  <stCamera:ImageWidth>6240.000000</stCamera:ImageWidth>
+                  <stCamera:ImageLength>4160.000000</stCamera:ImageLength>
+                  <stCamera:XResolution>300.000000</stCamera:XResolution>
+                  <stCamera:YResolution>300.000000</stCamera:YResolution>
+                  <stCamera:FocalLength>56.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Viltrox 56mm F1.4XM</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>Viltrox</stCamera:CameraPrettyName>
+                  <stCamera:CameraRawProfile>False</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>2.996574</stCamera:FocusDistance>
+                  <stCamera:SensorFormatFactor>1.515152</stCamera:SensorFormatFactor>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:FocalLengthX>2.266324</stCamera:FocalLengthX>
+                     <stCamera:FocalLengthY>2.266324</stCamera:FocalLengthY>
+                     <stCamera:ImageXCenter>0.468095</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.457412</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>0.249905</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>-1.422232</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>5.607056</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000084</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000071</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>2.219740</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>2.219740</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.466562</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.457039</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.239362</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-1.314692</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>5.085437</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000082</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000072</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000060</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>2.219740</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>2.219740</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.466562</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.457039</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.002109</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.007087</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.024150</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000084</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000073</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999814</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>2.219740</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>2.219740</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.466562</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.457039</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000770</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.039209</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.364250</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000084</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000072</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>2.266324</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>2.266324</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.468095</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.457412</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-1.210754</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-62.073608</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>836.323853</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.007394</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>                              
+            </rdf:Seq>
+         </photoshop:CameraProfiles>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>

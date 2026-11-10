@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<lensdatabase version="2">
+    <!-- Converted from (Viltrox 16mm F1.8 FE) - RAW.lcp using lensfun-convert-lcp. -->
+    <lens>
+        <maker>Viltrox</maker>
+        <model>Viltrox 16mm f/1.8 FE</model>
+        <mount>Sony E</mount>
+        <cropfactor>1.0</cropfactor>
+        <focal value="16" />
+        <aperture min="1.8" />
+        <calibration>
+            <!-- Omitted the f/1.8 vignetting sample because it blackens image corners in Lensfun. -->
+            <!-- Uses the Sony ILME-FX3 record for the shared focal length, aperture, and distance. -->
+            <distortion focal="16.0" model="acm" k1="0.000733" k2="-0.002671" />
+            <tca focal="16.0" model="acm" alpha0="0.999859" alpha1="0.000235" alpha2="-0.000072" beta0="1.000252" beta1="-0.000294" beta2="0.000053" />
+        </calibration>
+    </lens>
+</lensdatabase>

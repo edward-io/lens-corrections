@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<lensdatabase version="2">
+    <!-- Converted from the Viltrox 24mm F1.8 E RAW LCP using lensfun-convert-lcp. -->
+    <lens>
+        <maker>Viltrox</maker>
+        <model>Viltrox 24mm f/1.8 E</model>
+        <mount>Sony E</mount>
+        <cropfactor>1.0</cropfactor>
+        <focal value="24" />
+        <aperture min="1.8" />
+        <calibration>
+            <!-- Uses only records marked RAW and retains the recorded wide-open aperture. -->
+            <distortion focal="24.0" model="acm" k1="-0.113391" k2="0.116151" />
+            <tca focal="24.0" model="acm" alpha0="0.999899" alpha1="0.000436" alpha2="-0.000080" beta0="1.000456" beta1="0.000120" beta2="-0.001294" />
+            <vignetting focal="24.000000" model="acm" aperture="1.8" distance="0.583765" alpha1="-2.078121" alpha2="1.700000" alpha3="-0.520000" />
+            <vignetting focal="24.000000" model="acm" aperture="2.8" distance="0.328790" alpha1="-0.466183" alpha2="0.000000" alpha3="0.000000" />
+            <vignetting focal="24.000000" model="acm" aperture="4.000000" distance="0.427655" alpha1="-1.236457" alpha2="1.137797" alpha3="-0.680000" />
+        </calibration>
+    </lens>
+</lensdatabase>

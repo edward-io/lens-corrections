@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<lensdatabase version="2">
+    <!-- Converted from Viltrox (23mmF1.4XM) - RAW.lcp using lensfun-convert-lcp. -->
+    <lens>
+        <maker>Viltrox</maker>
+        <model>Viltrox 23mm f/1.4XM</model>
+        <mount>Fujifilm X</mount>
+        <cropfactor>1.521739</cropfactor>
+        <focal value="23" />
+        <aperture min="1.4" />
+        <calibration>
+            <distortion focal="23.0" model="acm" k1="-0.090121" k2="0.179997" />
+            <tca focal="23.0" model="acm" alpha0="0.999897" alpha1="0.001651" alpha2="-0.003266" beta0="1.000595" beta1="-0.002282" beta2="0.003204" />
+            <vignetting focal="23.000000" model="acm" aperture="1.4" distance="1.663925" alpha1="-2.970520" alpha2="7.168430" alpha3="-11.621907" />
+            <vignetting focal="23.000000" model="acm" aperture="2.8" distance="1.556404" alpha1="-0.714205" alpha2="-0.078444" alpha3="-3.886343" />
+            <vignetting focal="23.000000" model="acm" aperture="5.6" distance="1.456459" alpha1="-0.247259" alpha2="-2.247893" alpha3="3.076144" />
+            <vignetting focal="23.000000" model="acm" aperture="11" distance="1.358226" alpha1="-0.309730" alpha2="-1.747144" alpha3="1.955142" />
+        </calibration>
+    </lens>
+</lensdatabase>

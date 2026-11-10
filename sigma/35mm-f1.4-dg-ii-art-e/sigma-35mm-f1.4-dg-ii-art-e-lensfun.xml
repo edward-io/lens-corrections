@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<lensdatabase version="2">
+    <!-- Converted from SIGMA35mmF14DGIIA026_RAW_SONY_SE.lcp using lensfun-convert-lcp. -->
+    <lens>
+        <maker>Sigma</maker>
+        <model>Sigma 35mm F1.4 DG II | Art 026</model>
+        <mount>Sony E</mount>
+        <cropfactor>1.0</cropfactor>
+        <focal value="35" />
+        <aperture min="1.4" />
+        <calibration>
+            <!-- Apertures are f-numbers converted from the LCP APEX values. Vignetting uses the source polynomial. -->
+            <distortion focal="35.0" model="acm" k1="-0.052522" k2="0.068160" k3="0.030133" />
+            <tca focal="35.0" model="acm" alpha0="1.000134" alpha1="-0.000757" alpha2="0.001798" alpha3="-0.001149" beta0="0.999980" beta1="0.000957" beta2="-0.002350" beta3="0.001429" />
+            <vignetting focal="35.000000" model="acm" aperture="1.4" distance="0.281000" alpha1="-3.035519" alpha2="2.422405" alpha3="-0.149012" />
+            <vignetting focal="35.000000" model="acm" aperture="1.4" distance="0.355000" alpha1="-3.946118" alpha2="8.063817" alpha3="-8.847436" />
+            <vignetting focal="35.000000" model="acm" aperture="1.4" distance="0.484000" alpha1="-4.838301" alpha2="13.405450" alpha3="-16.939648" />
+            <vignetting focal="35.000000" model="acm" aperture="1.4" distance="0.761000" alpha1="-5.668617" alpha2="18.260416" alpha3="-24.263304" />
+            <vignetting focal="35.000000" model="acm" aperture="1.4" distance="1.331000" alpha1="-6.286119" alpha2="21.839066" alpha3="-29.728683" />
+            <vignetting focal="35.000000" model="acm" aperture="1.4" distance="999999995904.000000" alpha1="-6.526932" alpha2="22.866423" alpha3="-30.905645" />
+            <vignetting focal="35.000000" model="acm" aperture="2" distance="0.281000" alpha1="-0.336828" alpha2="-7.750306" alpha3="10.537759" />
+            <vignetting focal="35.000000" model="acm" aperture="2" distance="0.355000" alpha1="-0.571380" alpha2="-7.133176" alpha3="10.897041" />
+            <vignetting focal="35.000000" model="acm" aperture="2" distance="0.484000" alpha1="-0.784314" alpha2="-6.572325" alpha3="11.028782" />
+            <vignetting focal="35.000000" model="acm" aperture="2" distance="0.761000" alpha1="-0.998384" alpha2="-5.893151" alpha3="10.696851" />
+            <vignetting focal="35.000000" model="acm" aperture="2" distance="1.331000" alpha1="-1.167157" alpha2="-5.508007" alpha3="10.756164" />
+            <vignetting focal="35.000000" model="acm" aperture="2" distance="999999995904.000000" alpha1="-1.296142" alpha2="-5.139004" alpha3="10.483829" />
+            <vignetting focal="35.000000" model="acm" aperture="2.8" distance="0.281000" alpha1="-0.660941" alpha2="-1.832058" alpha3="0.590215" />
+            <vignetting focal="35.000000" model="acm" aperture="2.8" distance="0.355000" alpha1="-0.800352" alpha2="-1.665373" alpha3="0.828846" />
+            <vignetting focal="35.000000" model="acm" aperture="2.8" distance="0.484000" alpha1="-0.957966" alpha2="-1.230114" alpha3="0.302182" />
+            <vignetting focal="35.000000" model="acm" aperture="2.8" distance="0.761000" alpha1="-1.111303" alpha2="-0.811071" alpha3="-0.196323" />
+            <vignetting focal="35.000000" model="acm" aperture="2.8" distance="1.331000" alpha1="-1.258411" alpha2="-0.369781" alpha3="-0.695747" />
+            <vignetting focal="35.000000" model="acm" aperture="2.8" distance="999999995904.000000" alpha1="-1.431876" alpha2="0.345498" alpha3="-1.686921" />
+            <vignetting focal="35.000000" model="acm" aperture="4" distance="0.281000" alpha1="-1.357561" alpha2="0.363771" alpha3="0.134875" />
+            <vignetting focal="35.000000" model="acm" aperture="4" distance="0.355000" alpha1="-1.391936" alpha2="0.469515" alpha3="0.111561" />
+            <vignetting focal="35.000000" model="acm" aperture="4" distance="0.484000" alpha1="-1.432992" alpha2="0.679324" alpha3="-0.229857" />
+            <vignetting focal="35.000000" model="acm" aperture="4" distance="0.761000" alpha1="-1.476723" alpha2="0.959582" alpha3="-0.842596" />
+            <vignetting focal="35.000000" model="acm" aperture="4" distance="1.331000" alpha1="-1.525281" alpha2="1.338665" alpha3="-1.682857" />
+            <vignetting focal="35.000000" model="acm" aperture="4" distance="999999995904.000000" alpha1="-1.562430" alpha2="1.585267" alpha3="-2.229565" />
+            <vignetting focal="35.000000" model="acm" aperture="5.6" distance="0.281000" alpha1="-1.347837" alpha2="0.383679" alpha3="0.116346" />
+            <vignetting focal="35.000000" model="acm" aperture="5.6" distance="0.355000" alpha1="-1.381386" alpha2="0.464125" alpha3="0.140488" />
+            <vignetting focal="35.000000" model="acm" aperture="5.6" distance="0.484000" alpha1="-1.414000" alpha2="0.536908" alpha3="0.173184" />
+            <vignetting focal="35.000000" model="acm" aperture="5.6" distance="0.761000" alpha1="-1.436259" alpha2="0.541071" alpha3="0.295789" />
+            <vignetting focal="35.000000" model="acm" aperture="5.6" distance="1.331000" alpha1="-1.459251" alpha2="0.614790" alpha3="0.231638" />
+            <vignetting focal="35.000000" model="acm" aperture="5.6" distance="999999995904.000000" alpha1="-1.487767" alpha2="0.706831" alpha3="0.139276" />
+        </calibration>
+    </lens>
+</lensdatabase>

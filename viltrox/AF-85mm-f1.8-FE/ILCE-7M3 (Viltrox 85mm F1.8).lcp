@@ -1,0 +1,102 @@
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+            xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+         <photoshop:CameraProfiles>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:ProfileName>ILCE-7M3 - Viltrox 85mm F1.8</stCamera:ProfileName>
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:Model>ILCE-7M3</stCamera:Model>
+                  <stCamera:Lens>Viltrox 85mm F1.8</stCamera:Lens>
+                  <stCamera:LensInfo>850/10 850/10 18/10 18/10</stCamera:LensInfo>
+                  <stCamera:ImageWidth>6000.000000</stCamera:ImageWidth>
+                  <stCamera:ImageLength>4000.000000</stCamera:ImageLength>
+                  <stCamera:XResolution>350.000000</stCamera:XResolution>
+                  <stCamera:YResolution>350.000000</stCamera:YResolution>
+                  <stCamera:FocalLength>85.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>1.695994</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Viltrox 85mm F1.8</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>ILCE-7M3</stCamera:CameraPrettyName>
+                  <stCamera:CameraRawProfile>False</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>4.372945</stCamera:FocusDistance>
+                  <stCamera:SensorFormatFactor>1.000000</stCamera:SensorFormatFactor>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:FocalLengthX>4.860780</stCamera:FocalLengthX>
+                     <stCamera:FocalLengthY>4.860780</stCamera:FocalLengthY>
+                     <stCamera:ImageXCenter>0.463777</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.435218</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>2.584821</stCamera:RadialDistortParam1>
+                     <stCamera:ResidualMeanError>0.000141</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000100</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>4.846943</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>4.846943</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.463957</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.435370</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>2.573038</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000139</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000099</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000007</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>4.846943</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>4.846943</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.463957</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.435370</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.021640</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000141</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000099</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999939</stCamera:ScaleFactor>
+                        <stCamera:FocalLengthX>4.846943</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>4.846943</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.463957</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.435370</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.013825</stCamera:RadialDistortParam1>
+                        <stCamera:ResidualMeanError>0.000146</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000096</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:FocalLengthX>4.860780</stCamera:FocalLengthX>
+                        <stCamera:FocalLengthY>4.860780</stCamera:FocalLengthY>
+                        <stCamera:ImageXCenter>0.463777</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.435218</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-39.522287</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>0.000000</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.000000</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.163121</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+            </rdf:Seq>
+         </photoshop:CameraProfiles>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>

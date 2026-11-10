@@ -1,0 +1,2012 @@
+<?xpacket begin="?" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.4.0-c007 1.126898, 2008/09/29-20:23:32        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+            xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+         <photoshop:CameraProfiles>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>999999995904.000000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.121910</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.039615</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.004940</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000005</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.121910</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.039615</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.004940</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000005</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000201</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000773</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001996</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001249</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000130</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000904</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.002493</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001493</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-2.537360</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>4.212570</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-2.748661</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.017572</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.066067, 0.968400</rdf:li>
+                              <rdf:li>0.213532, 0.856600</rdf:li>
+                              <rdf:li>0.669268, 0.459000</rdf:li>
+                              <rdf:li>0.747138, 0.399500</rdf:li>
+                              <rdf:li>0.817214, 0.359100</rdf:li>
+                              <rdf:li>0.869990, 0.340000</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.841000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.126090</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.039003</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.005427</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.126090</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.039003</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.005427</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000181</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.001029</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.002524</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001684</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000001</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000131</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000991</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.002519</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001590</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-2.500014</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>4.138699</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-2.717911</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.015424</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.080828, 0.963400</rdf:li>
+                              <rdf:li>0.215307, 0.861200</rdf:li>
+                              <rdf:li>0.508772, 0.599300</rdf:li>
+                              <rdf:li>0.721435, 0.422100</rdf:li>
+                              <rdf:li>0.789501, 0.378000</rdf:li>
+                              <rdf:li>0.865653, 0.340000</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.421000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.130951</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.038250</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.006051</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.130951</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.038250</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.006051</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000160</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.001208</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.002794</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001957</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000139</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.001198</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.002766</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001813</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-2.460697</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>4.060894</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-2.684892</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.013222</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.097875, 0.956000</rdf:li>
+                              <rdf:li>0.211398, 0.870400</rdf:li>
+                              <rdf:li>0.534044, 0.580800</rdf:li>
+                              <rdf:li>0.727304, 0.423200</rdf:li>
+                              <rdf:li>0.860538, 0.342500</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.281000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.136677</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.037336</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.006898</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.136677</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.037336</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.006898</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000116</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.001662</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.003818</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.002839</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000155</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.001348</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.002753</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001860</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-2.415366</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>3.978893</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-2.663713</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.011112</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.120180, 0.944600</rdf:li>
+                              <rdf:li>0.207937, 0.879600</rdf:li>
+                              <rdf:li>0.547972, 0.572200</rdf:li>
+                              <rdf:li>0.672581, 0.471300</rdf:li>
+                              <rdf:li>0.854416, 0.342500</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.211000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.143510</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.036186</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.008076</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.143510</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.036186</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.008076</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000071</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.001908</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.004118</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.003241</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000004</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000177</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.001681</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.003363</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.002528</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000004</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-2.368063</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>3.889540</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-2.631669</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.008903</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.116952, 0.946500</rdf:li>
+                              <rdf:li>0.220788, 0.876200</rdf:li>
+                              <rdf:li>0.585127, 0.544600</rdf:li>
+                              <rdf:li>0.721513, 0.440500</rdf:li>
+                              <rdf:li>0.787643, 0.398000</rdf:li>
+                              <rdf:li>0.846953, 0.345000</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.178000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.149560</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.035124</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.009307</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.149560</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.035124</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.009307</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000015</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.002329</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.005039</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.004109</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000005</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000219</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.002002</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.003950</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.003261</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000005</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-2.334864</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>3.850078</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-2.649930</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.007687</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.116023, 0.946900</rdf:li>
+                              <rdf:li>0.243951, 0.862000</rdf:li>
+                              <rdf:li>0.591238, 0.542400</rdf:li>
+                              <rdf:li>0.778488, 0.410100</rdf:li>
+                              <rdf:li>0.840185, 0.345000</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.000000</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>999999995904.000000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.121910</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.039615</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.004940</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000005</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.121910</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.039615</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.004940</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000005</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000253</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000416</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001266</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.000755</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000101</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000740</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.002339</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001483</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.255711</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-0.942696</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.398335</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.006867</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.000000</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.841000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.126090</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.039003</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.005427</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.126090</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.039003</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.005427</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000258</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000472</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001350</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.000899</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000098</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000828</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.002332</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001520</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000004</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.284974</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-0.751581</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.174999</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.006333</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.000000</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.421000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.130951</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.038250</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.006051</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.130951</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.038250</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.006051</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000257</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000524</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001339</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.000951</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000080</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000779</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001938</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001286</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.317867</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-0.535538</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-0.080633</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.005530</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.000000</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.281000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.136677</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.037336</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.006898</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.136677</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.037336</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.006898</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000255</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000637</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001480</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001149</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000078</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000926</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.002155</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001631</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000004</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.361890</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-0.271794</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-0.383411</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.004476</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.000000</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.211000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.143510</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.036186</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.008076</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.143510</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.036186</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.008076</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000238</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000938</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.002319</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.002102</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000004</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000073</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.001017</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.002117</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001771</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000004</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.414319</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>0.058403</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-0.780625</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.003150</stCamera:ResidualMeanError>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.000000</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.178000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.149560</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.035124</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.009307</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.149560</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.035124</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.009307</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000221</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.001165</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.002888</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.002741</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000005</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000074</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.001101</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.002037</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001846</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.460163</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>0.335730</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-1.114488</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002952</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.209177, 0.979400</rdf:li>
+                              <rdf:li>0.414653, 0.924800</rdf:li>
+                              <rdf:li>0.522735, 0.883200</rdf:li>
+                              <rdf:li>0.612846, 0.811300</rdf:li>
+                              <rdf:li>0.702931, 0.716400</rdf:li>
+                              <rdf:li>0.772849, 0.617200</rdf:li>
+                              <rdf:li>0.806240, 0.540000</rdf:li>
+                              <rdf:li>0.840185, 0.436400</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>999999995904.000000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.121910</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.039615</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.004940</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000005</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.121910</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.039615</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.004940</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000005</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000305</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000176</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001172</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.000910</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000046</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000333</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001663</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001120</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.689860</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>1.584330</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-1.450167</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.007355</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.245048, 0.972400</rdf:li>
+                              <rdf:li>0.573907, 0.880300</rdf:li>
+                              <rdf:li>0.739178, 0.876400</rdf:li>
+                              <rdf:li>0.818349, 0.815400</rdf:li>
+                              <rdf:li>0.869990, 0.736000</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.841000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.126090</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.039003</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.005427</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.126090</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.039003</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.005427</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000300</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000376</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001705</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001478</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000025</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000221</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001066</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.000641</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.707680</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>1.679608</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-1.550966</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.008354</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.244984, 0.972400</rdf:li>
+                              <rdf:li>0.560202, 0.883300</rdf:li>
+                              <rdf:li>0.744149, 0.879300</rdf:li>
+                              <rdf:li>0.815123, 0.820100</rdf:li>
+                              <rdf:li>0.865653, 0.734000</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.421000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.130951</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.038250</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.006051</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.130951</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.038250</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.006051</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000306</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000401</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001603</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001430</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000019</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000353</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001273</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.000938</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.725053</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>1.775457</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-1.654279</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.009518</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.247844, 0.971800</rdf:li>
+                              <rdf:li>0.546848, 0.886300</rdf:li>
+                              <rdf:li>0.750744, 0.883300</rdf:li>
+                              <rdf:li>0.808366, 0.829800</rdf:li>
+                              <rdf:li>0.860538, 0.732000</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.281000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.136677</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.037336</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.006898</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.136677</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.037336</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.006898</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000308</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000433</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001473</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001392</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000015</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000531</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001621</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001414</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.745141</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>1.883831</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-1.769949</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.010738</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.239182, 0.973600</rdf:li>
+                              <rdf:li>0.525175, 0.892100</rdf:li>
+                              <rdf:li>0.754765, 0.889400</rdf:li>
+                              <rdf:li>0.802922, 0.839200</rdf:li>
+                              <rdf:li>0.854416, 0.730000</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.211000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.143510</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.036186</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.008076</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.143510</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.036186</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.008076</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000299</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000565</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001654</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001714</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000011</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000698</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001798</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001715</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000004</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.763326</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>1.985507</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-1.881771</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.012327</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.231865, 0.975100</rdf:li>
+                              <rdf:li>0.497200, 0.899900</rdf:li>
+                              <rdf:li>0.756050, 0.897600</rdf:li>
+                              <rdf:li>0.798587, 0.846800</rdf:li>
+                              <rdf:li>0.846953, 0.726000</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.178000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.149560</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.035124</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.009307</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.149560</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.035124</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.009307</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000272</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000966</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.002737</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.002814</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000005</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000002</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000722</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001559</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001636</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.781028</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>2.093222</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-2.006509</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.013669</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.223885, 0.976700</rdf:li>
+                              <rdf:li>0.474773, 0.907000</rdf:li>
+                              <rdf:li>0.757845, 0.905200</rdf:li>
+                              <rdf:li>0.793046, 0.856700</rdf:li>
+                              <rdf:li>0.840185, 0.722000</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.000000</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>999999995904.000000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.121910</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.039615</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.004940</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000005</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.121910</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.039615</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.004940</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000005</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000328</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000199</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001490</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001145</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000009</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000083</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001227</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.000828</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.425479</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-0.482168</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.861065</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002256</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.170663, 0.987000</rdf:li>
+                              <rdf:li>0.312893, 0.954400</rdf:li>
+                              <rdf:li>0.495022, 0.881700</rdf:li>
+                              <rdf:li>0.710250, 0.768000</rdf:li>
+                              <rdf:li>0.825341, 0.767500</rdf:li>
+                              <rdf:li>0.869990, 0.753800</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.000000</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.841000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.126090</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.039003</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.005427</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.126090</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.039003</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.005427</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000328</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000291</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001608</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001283</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999995</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000121</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001187</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.000873</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.420724</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-0.515538</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.904887</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002384</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.182063, 0.985000</rdf:li>
+                              <rdf:li>0.320993, 0.951800</rdf:li>
+                              <rdf:li>0.495076, 0.881400</rdf:li>
+                              <rdf:li>0.702795, 0.770100</rdf:li>
+                              <rdf:li>0.825896, 0.769500</rdf:li>
+                              <rdf:li>0.865653, 0.752300</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.000000</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.421000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.130951</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.038250</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.006051</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.130951</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.038250</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.006051</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000324</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000416</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001813</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001532</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000004</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999985</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000224</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001313</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001064</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.419642</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-0.537997</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.940520</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002508</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.181348, 0.985100</rdf:li>
+                              <rdf:li>0.316602, 0.953200</rdf:li>
+                              <rdf:li>0.492714, 0.882200</rdf:li>
+                              <rdf:li>0.694921, 0.772400</rdf:li>
+                              <rdf:li>0.821843, 0.772000</rdf:li>
+                              <rdf:li>0.860538, 0.749200</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.000000</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.281000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.136677</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.037336</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.006898</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.136677</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.037336</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.006898</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000321</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000534</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.002003</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001789</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000004</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999975</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000294</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001231</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001096</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.413074</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-0.586476</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>1.004255</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002624</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.173784, 0.986500</rdf:li>
+                              <rdf:li>0.333008, 0.948000</rdf:li>
+                              <rdf:li>0.499860, 0.878300</rdf:li>
+                              <rdf:li>0.686383, 0.775000</rdf:li>
+                              <rdf:li>0.816962, 0.774600</rdf:li>
+                              <rdf:li>0.854416, 0.746200</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.000000</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.211000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.143510</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.036186</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.008076</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.143510</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.036186</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.008076</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000317</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000624</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.002058</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.001961</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000004</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999971</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000497</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001576</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001579</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.407633</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-0.626638</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>1.060421</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002782</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.181044, 0.985200</rdf:li>
+                              <rdf:li>0.341097, 0.945400</rdf:li>
+                              <rdf:li>0.479506, 0.888400</rdf:li>
+                              <rdf:li>0.680496, 0.777600</rdf:li>
+                              <rdf:li>0.811149, 0.777100</rdf:li>
+                              <rdf:li>0.846953, 0.743100</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.000000</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.178000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.149560</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.035124</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.009307</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.149560</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.035124</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.009307</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000305</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000775</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.002287</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.002277</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000004</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999969</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000613</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001640</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001785</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000003</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.404130</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>-0.665293</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>1.119732</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002994</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.186470, 0.984300</rdf:li>
+                              <rdf:li>0.346969, 0.943400</rdf:li>
+                              <rdf:li>0.478726, 0.888400</rdf:li>
+                              <rdf:li>0.669993, 0.781400</rdf:li>
+                              <rdf:li>0.808063, 0.780100</rdf:li>
+                              <rdf:li>0.840185, 0.738500</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>999999995904.000000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.121910</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.039615</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.004940</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000005</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.121910</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.039615</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.004940</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000005</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000351</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000018</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.000906</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.000543</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000001</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000001</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999970</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000261</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.000272</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.000034</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000001</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.488394</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>0.120193</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.070450</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002167</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.225795, 0.977000</rdf:li>
+                              <rdf:li>0.393758, 0.929300</rdf:li>
+                              <rdf:li>0.714961, 0.789200</rdf:li>
+                              <rdf:li>0.827040, 0.757700</rdf:li>
+                              <rdf:li>0.869990, 0.700000</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.841000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.126090</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.039003</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.005427</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.126090</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.039003</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.005427</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000352</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000095</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.000933</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.000554</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999961</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000193</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.000319</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.000084</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000001</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000001</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.488611</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>0.121617</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.064482</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002236</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.188451, 0.984100</rdf:li>
+                              <rdf:li>0.395225, 0.928700</rdf:li>
+                              <rdf:li>0.712910, 0.789200</rdf:li>
+                              <rdf:li>0.821072, 0.759100</rdf:li>
+                              <rdf:li>0.840505, 0.741100</rdf:li>
+                              <rdf:li>0.865653, 0.698800</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.421000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.130951</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.038250</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.006051</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.130951</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.038250</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.006051</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000007</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000353</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000168</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.000999</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.000661</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000001</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000001</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999951</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000099</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.000398</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.000237</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000001</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000001</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.488774</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>0.119028</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.060906</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002240</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.188418, 0.984100</rdf:li>
+                              <rdf:li>0.402067, 0.926000</rdf:li>
+                              <rdf:li>0.764791, 0.767700</rdf:li>
+                              <rdf:li>0.817481, 0.758800</rdf:li>
+                              <rdf:li>0.836143, 0.740400</rdf:li>
+                              <rdf:li>0.860538, 0.696200</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.281000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.136677</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.037336</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.006898</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.136677</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.037336</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.006898</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000344</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000324</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001272</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.000980</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999942</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000015</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.000488</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.000381</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000001</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.488711</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>0.118995</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.053195</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002450</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.224714, 0.977400</rdf:li>
+                              <rdf:li>0.447164, 0.908600</rdf:li>
+                              <rdf:li>0.754214, 0.770700</rdf:li>
+                              <rdf:li>0.811466, 0.759700</rdf:li>
+                              <rdf:li>0.830533, 0.739900</rdf:li>
+                              <rdf:li>0.854416, 0.693700</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.211000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.143510</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.036186</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.008076</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.143510</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.036186</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.008076</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000347</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000316</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.001033</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.000910</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999942</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000262</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.000937</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.000888</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000002</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.493685</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>0.142797</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>0.015722</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002561</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.216713, 0.979000</rdf:li>
+                              <rdf:li>0.413209, 0.921300</rdf:li>
+                              <rdf:li>0.751936, 0.769800</rdf:li>
+                              <rdf:li>0.805486, 0.760000</rdf:li>
+                              <rdf:li>0.822741, 0.740800</rdf:li>
+                              <rdf:li>0.846953, 0.688800</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stCamera:Make>SONY</stCamera:Make>
+                  <stCamera:FocalLength>15.000000</stCamera:FocalLength>
+                  <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+                  <stCamera:LensPrettyName>Sigma 15mm F1.4 DC C026</stCamera:LensPrettyName>
+                  <stCamera:CameraPrettyName>SONY</stCamera:CameraPrettyName>
+                  <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+                  <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+                  <stCamera:FocusDistance>0.178000</stCamera:FocusDistance>
+                  <stCamera:PerspectiveModel rdf:parseType="Resource">
+                     <stCamera:Version>2</stCamera:Version>
+                     <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                     <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                     <stCamera:RadialDistortParam1>-0.149560</stCamera:RadialDistortParam1>
+                     <stCamera:RadialDistortParam2>0.035124</stCamera:RadialDistortParam2>
+                     <stCamera:RadialDistortParam3>-0.009307</stCamera:RadialDistortParam3>
+                     <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                     <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.149560</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.035124</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.009307</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000006</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000004</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticGreenModel>
+                     <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>1.000339</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>0.000399</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>-0.000975</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>0.000899</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticRedGreenModel>
+                     <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+                        <stCamera:ScaleFactor>0.999938</stCamera:ScaleFactor>
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:RadialDistortParam1>-0.000374</stCamera:RadialDistortParam1>
+                        <stCamera:RadialDistortParam2>0.001008</stCamera:RadialDistortParam2>
+                        <stCamera:RadialDistortParam3>-0.001106</stCamera:RadialDistortParam3>
+                        <stCamera:ResidualMeanError>0.000002</stCamera:ResidualMeanError>
+                        <stCamera:ResidualStandardDeviation>0.000003</stCamera:ResidualStandardDeviation>
+                     </stCamera:ChromaticBlueGreenModel>
+                     <stCamera:VignetteModel rdf:parseType="Resource">
+                        <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
+                        <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
+                        <stCamera:VignetteModelParam1>-0.494266</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>0.148908</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-0.005034</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.002859</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelPiecewiseParam>
+                           <rdf:Seq>
+                              <rdf:li>0.000000, 1.000000</rdf:li>
+                              <rdf:li>0.245076, 0.973000</rdf:li>
+                              <rdf:li>0.460779, 0.902600</rdf:li>
+                              <rdf:li>0.753322, 0.768200</rdf:li>
+                              <rdf:li>0.802083, 0.759000</rdf:li>
+                              <rdf:li>0.818933, 0.735700</rdf:li>
+                              <rdf:li>0.840185, 0.683800</rdf:li>
+                           </rdf:Seq>
+                        </stCamera:VignetteModelPiecewiseParam>
+                     </stCamera:VignetteModel>
+                  </stCamera:PerspectiveModel>
+               </rdf:li>
+            </rdf:Seq>
+         </photoshop:CameraProfiles>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>

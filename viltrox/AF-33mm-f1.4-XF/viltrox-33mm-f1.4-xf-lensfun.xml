@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<lensdatabase version="2">
+    <!-- Converted from Viltrox (33mmF1.4XM) - RAW.lcp using lensfun-convert-lcp. -->
+    <lens>
+        <maker>Viltrox</maker>
+        <model>Viltrox 33mm f/1.4XM</model>
+        <mount>Fujifilm X</mount>
+        <cropfactor>1.515152</cropfactor>
+        <focal value="33" />
+        <aperture min="1.4" />
+        <calibration>
+            <!-- Omitted the f/11 vignetting sample because it blackens image corners in Lensfun. -->
+            <distortion focal="33.0" model="acm" k1="-0.143126" k2="4.396712" />
+            <tca focal="33.0" model="acm" alpha0="1.000097" alpha1="-0.000129" alpha2="-0.029148" beta0="0.999987" beta1="0.003100" beta2="-0.032304" />
+            <vignetting focal="33.000000" model="acm" aperture="1.4" distance="2.913648" alpha1="-15.987646" alpha2="131.142733" alpha3="0.000000" />
+            <vignetting focal="33.000000" model="acm" aperture="2.8" distance="3.280622" alpha1="-4.799438" alpha2="0.000000" alpha3="0.000000" />
+            <vignetting focal="33.000000" model="acm" aperture="5.6" distance="3.031193" alpha1="-4.027211" alpha2="0.000000" alpha3="0.000000" />
+        </calibration>
+    </lens>
+</lensdatabase>

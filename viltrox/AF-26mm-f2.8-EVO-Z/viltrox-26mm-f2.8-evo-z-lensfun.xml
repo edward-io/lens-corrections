@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<lensdatabase version="2">
+    <!-- Converted from Viltrox AF 26mm f2.8 Z- RAW.lcp using lensfun-convert-lcp. -->
+    <lens>
+        <maker>Viltrox</maker>
+        <model>Viltrox AF 26mm f/2.8 Z</model>
+        <mount>Nikon Z</mount>
+        <cropfactor>1.0</cropfactor>
+        <focal value="26" />
+        <aperture min="2.8" />
+        <calibration>
+            <distortion focal="26.0" model="acm" k1="0.049543" k2="-0.076251" />
+            <tca focal="26.0" model="acm" alpha0="1.000231" alpha1="-0.001538" alpha2="0.002091" beta0="0.999625" beta1="0.001649" beta2="-0.002648" />
+            <vignetting focal="26.000000" model="acm" aperture="8" distance="0.834024" alpha1="-1.101924" alpha2="1.396725" alpha3="-0.318010" />
+        </calibration>
+    </lens>
+</lensdatabase>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<lensdatabase version="2">
+    <!-- Converted from PFU RBMH 20mmF1.8 ASPH - RAW.lcp using lensfun-convert-lcp. -->
+    <lens>
+        <maker>Viltrox</maker>
+        <model>Viltrox 20mm f/1.8 (Sony E)</model>
+        <mount>Sony E</mount>
+        <cropfactor>1</cropfactor>
+        <focal value="20" />
+        <aperture min="1.8" />
+        <calibration>
+            <!-- The LCP does not record an aperture for its vignetting calibration. -->
+            <distortion focal="20.0" model="acm" k1="-0.059984" k2="0.042533" />
+            <tca focal="20.0" model="acm" alpha0="1.000154" alpha1="-0.000378" alpha2="0.000409" beta0="1.000012" beta1="0.000131" beta2="-0.000051" />
+        </calibration>
+    </lens>
+</lensdatabase>
