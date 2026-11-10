@@ -65,3 +65,7 @@ Each Sigma folder contains a RAW LCP from a Sigma interim download and its Lensf
 - The Viltrox MF 20mm profiles contain distortion and lateral chromatic aberration corrections. The LCPs lack the aperture metadata needed to convert their vignetting data.
 - Several vignetting samples produced black corners in Lensfun and were omitted. The affected XMLs have comments identifying the samples. Sigma’s XMLs use the LCP polynomial vignetting curves.
 - The XMLs were checked in Lensfun 0.3.99.0 for lens matching and correction behavior on synthetic pixels. Correction quality on real photos hasn’t been verified.
+
+## Licensing
+
+The licensing terms for the Viltrox and Sigma lens profiles are unclear. We haven’t verified what permissions apply to the manufacturer-supplied LCPs or the Lensfun XMLs derived from them.
